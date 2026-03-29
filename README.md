@@ -1,32 +1,115 @@
-<h1 align="center">Hi 👋, I'm Rihan Chougule</h1>
-<h3 align="center">I'm a passionate Machine Learning and Computer Vision enthusiast who loves building real-world AI solutions. I’ve worked on projects like emotion detection, gesture recognition systems, and health prediction models. Currently exploring advanced computer vision and deploying ML apps using tools like OpenCV, Gradio, and Hugging Face. Always eager to learn, build, and collaborate on impactful tech 🚀</h3>
+<h1 align="center">
+  Hi 👋, I'm Rihan Chougule
+</h1>
 
-- 🔭 I’m currently working on [Face Recognition](https://github.com/RihanC/Face_RECOG.git)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Computer+Vision+Enthusiast;Full+Stack+Explorer;Building+Real+World+AI+🚀" />
+</h3>
 
-- 🌱 I’m currently learning **Node JS, Three JS, GSAP, Lenis, Machine Learning, Gen AI**
+---
 
-- 👯 I’m looking to collaborate on [Voice Enabled Prescription](https://github.com/RihanC/Prescription.git)
+## 🧠 About Me
 
-- 🤝 I’m looking for help with [Smart Revision App for College Students](https://github.com/RihanC/revision-rocket.git)
+🚀 Building **real-world AI systems**  
+🤖 Passionate about **Machine Learning & Computer Vision**  
+🌐 Exploring **Gen AI + Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-v2-gilt-three.vercel.app/](https://portfolio-v2-gilt-three.vercel.app/)
+- 🔭 Currently working on **Face Recognition System**
+- 🌱 Learning **Node.js, Three.js, GSAP, Lenis, Gen AI**
+- 👯 Collaborating on **Voice Enabled Prescription**
+- 🤝 Building **Smart Revision App for Students**
+- 📫 Reach me: **crihan082@gmail.com**
 
-- 📝 I regularly write articles on [DSA and Development](DSA and Development)
+---
 
-- 💬 Ask me about **React, ML & AI, Backend**
+## 🌐 Portfolio
 
-- 📫 How to reach me **crihan082@gmail.com**
+🚀 **Check out my work:**  
+👉 https://portfolio-v2-gilt-three.vercel.app/
 
-- 📄 Know about my experiences [https://portfolio-v2-gilt-three.vercel.app/](https://portfolio-v2-gilt-three.vercel.app/)
+---
 
-- ⚡ Fun fact **I am Rich (extremely) !**
+## 🧠 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://portfolio-v2-gilt-three.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://portfolio-v2-gilt-three.vercel.app/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rihan-chougule-451228373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rihan-chougule-451228373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rihan_chougule/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rihan_chougule/" height="30" width="40" /></a>
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+
+### ⚙️ Frameworks & AI
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-111?style=for-the-badge&logo=opencv)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RihanC&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RihanC&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+## 📈 Languages Usage (Donut Chart 🔥)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihanC&layout=donut&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (INSANE 🔥)
+
+<p align="center">
+  <img src="https://github.com/RihanC/RihanC/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 👁️ Face Recognition System  
+- 🧠 Emotion Detection AI  
+- ✋ Gesture-Based Calculator  
+- 🏥 Kidney Health Predictor  
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rihan-chougule-451228373">
+  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://leetcode.com/u/rihan_chougule/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
+</a>
+<a href="https://portfolio-v2-gilt-three.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💸 **I am Rich (extremely 😎)**
+
+---
+
+## 🎯 Current Mission
+
+🧠 Mastering **Computer Vision**  
+🚀 Building **AI-powered real-time apps**  
+🌍 Deploying ML using **Gradio + Hugging Face**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/>
+</p>
