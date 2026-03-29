@@ -46,7 +46,6 @@
 
 ---
 
-## 📊 GitHub Analytics
 
 ## 📊 GitHub Analytics
 
@@ -57,17 +56,13 @@
 
 ---
 
-## 📈 Languages Usage (Donut Chart 🔥)
-
-## 📈 Languages Usage (Clean Version 🔥)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihanC&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (INSANE 🔥)
+## 🐍 Contribution Snake 
 
 <p align="center">
   <img src="https://github.com/RihanC/RihanC/blob/output/github-contribution-grid-snake.svg" />
