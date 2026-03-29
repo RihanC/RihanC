@@ -48,6 +48,8 @@
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RihanC&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RihanC&theme=tokyonight" />
@@ -57,8 +59,10 @@
 
 ## 📈 Languages Usage (Donut Chart 🔥)
 
+## 📈 Languages Usage (Clean Version 🔥)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihanC&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihanC&layout=compact&theme=tokyonight" />
 </p>
 
 ---
