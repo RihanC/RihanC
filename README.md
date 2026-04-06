@@ -14,7 +14,7 @@
 🤖 Passionate about **Machine Learning & Computer Vision**  
 🌐 Exploring **Gen AI + Full Stack Development**
 
-- 🔭 Currently working on **Face Recognition System**
+- 🔭 Currently working on **Collborative Code Editor and ThreeJS website production**
 - 🌱 Learning **Node.js, Three.js, GSAP, Lenis, Gen AI**
 - 👯 Collaborating on **Voice Enabled Prescription**
 - 🤝 Building **Smart Revision App for Students**
