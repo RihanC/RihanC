@@ -14,7 +14,7 @@
 🤖 Passionate about **Machine Learning & Computer Vision**  
 🌐 Exploring **Gen AI + Full Stack Development**
 
-- 🔭 Currently working on **Employee Management Project Based on React**
+- 🔭 Currently working on **Employee Management Project Based on React (Estimated 4 Days Completed by 17 Apr)**
 - 🌱 Learning **Node.js, Three.js, GSAP, Lenis, Gen AI**
 - 👯 Collaborating on **(Anything you like)**
 - 🤝 Building **Smart Revision App for Students**
