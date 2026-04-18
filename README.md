@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-🚀 Building **real-world AI systems**  
+🚀 Building **real-world AI systems and exploring new Tech**  
 🤖 Passionate about **Machine Learning & Computer Vision**  
 🌐 Exploring **Gen AI + Full Stack Development**
 
