@@ -17,7 +17,7 @@
 - 🔭 Currently working on **Employee Management Project Based on React**
 - 🌱 Learning **Node.js, Three.js, GSAP, Lenis, Gen AI**
 - 👯 Collaborating on **(Anything you like)**
-- 🤝 Building **Smart Revision App for Students**
+- 🤝 Building **Smart Revision App for Students and More cooler stuff**
 - 📫 Reach me: **crihan082@gmail.com**
 
 ---
