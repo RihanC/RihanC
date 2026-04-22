@@ -8,6 +8,16 @@
 
 ---
 
+---
+
+<h3 align="center">👀 Profile Views</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RihanC&label=Visitors&color=00F7FF&style=for-the-badge" />
+</p>
+
+---
+
 ## 🧠 About Me
 
 🚀 Building **real-world AI systems and exploring new Tech**  
