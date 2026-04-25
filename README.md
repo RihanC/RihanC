@@ -22,7 +22,7 @@
 
 🚀 Building **real-world AI systems and exploring new Tech**  
 🤖 Passionate about **Machine Learning & Computer Vision**  
-🌐 Exploring **Gen AI + Full Stack Development**
+🌐 Exploring **Gen AI + Full Stack Development + Cybersecurity**
 
 - 🔭 Currently working on **Employee Management Project Based on React**
 - 🌱 Learning **Node.js, Three.js, GSAP, Lenis, Gen AI, DSA**
