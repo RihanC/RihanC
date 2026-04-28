@@ -82,7 +82,7 @@
 
 ## 🚀 Featured Projects
 
-- 👁️ Face Recognition System  
+- 👁️ Face Recognition System  (Completely Touchless Hospital Management System)
 - 🧠 Emotion Detection AI  
 - ✋ Gesture-Based Calculator  
 - 🏥 Kidney Health Predictor  
